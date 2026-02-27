@@ -1,3 +1,3 @@
 # Molecular Graph Captioning
 
-👉 **[PDF report](report.pdf)** 👈
+👉 **[PDF report](Altegrad_report.pdf)** 👈
